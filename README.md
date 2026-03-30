@@ -15,7 +15,7 @@
     "Name"       : "Kajal Maurya",
     "Degree"     : "M.Sc. Data Science",
     "University" : "IIIT Lucknow",
-    "Passion"    : ["Machine Learning","Artificial Intelligence", "Data Analysis","Data Scientist"],
+    "Passion"    : ["Machine Learning","Artificial Intelligence", "Data Analytics","Data Scientist"],
     "Currently"  : "Building cool data-driven projects 🔭",
     "Fun_fact"   : "I turn raw data into meaningful stories 📖"
 
@@ -75,13 +75,13 @@
 ## 📈 Learning Path
 
 ```
-[✅] Python Fundamentals
-[✅] Data Analysis with Pandas & NumPy
-[✅] Machine Learning with Scikit-learn
-[🔄] Deep Learning & Neural Networks
-[🔄] Natural Language Processing (NLP)
-[⏳] MLOps & Model Deployment
-[⏳] Advanced AI Research
+✅ Python Fundamentals
+✅ Data Analysis with Pandas & NumPy
+✅ Machine Learning with Scikit-learn
+🔄 Deep Learning & Neural Networks
+🔄 Natural Language Processing (NLP)
+⏳ MLOps & Model Deployment
+⏳ Advanced AI Research
 ```
 
 ---
