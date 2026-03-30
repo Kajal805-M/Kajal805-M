@@ -80,7 +80,7 @@
 ✅ Machine Learning with Scikit-learn
 🔄 Deep Learning & Neural Networks
 🔄 Natural Language Processing (NLP)
-⏳ MLOps & Model Deployment
+⏳ Model Deployment
 ⏳ Advanced AI Research
 ```
 
