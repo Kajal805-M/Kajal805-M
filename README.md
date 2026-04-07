@@ -49,6 +49,16 @@
 
 [![Repo](https://img.shields.io/badge/View%20Repo-Movie%20Recommendation%20System-purple?style=for-the-badge&logo=github)](https://github.com/Kajal805-M/Movie-recommendation-system)
 
+### 💳 Credit Card Fraud Detection System
+> *A Machine Learning-based system that detects fraudulent credit card transactions.*
+
+- 🧠 Built with **Python**, **Pandas**, **Scikit-learn**, and **XGBoost**
+- ⚖️ Handles imbalanced data using **class weighting**
+- 🎯 Achieves strong fraud detection performance with high recall
+- 📊 Includes model evaluation using confusion matrix & classification report
+- 📦 Clean and modular codebase
+
+[![Repo](https://img.shields.io/badge/View%20Repo-Credit%20Card%20Fraud%20Detection-blue?style=for-the-badge&logo=github)](https://github.com/Kajal805-M/Credit-Card-Fraud-Detection)
 ---
 
 ## 📊 GitHub Stats
