@@ -1,4 +1,8 @@
-<h1 align="center" style="background-color:#0f172a; padding:20px; border-radius:10px;">
+<div align="center" style="background-image: url('https://images.unsplash.com/photo-1518770660439-4636190af475'); background-size: cover; padding:30px; border-radius:10px;">
+
+<!-- Your code -->
+
+</div>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Kajal+Maurya+%F0%9F%91%8B;M.Sc.+Data+Science+%40+IIIT+Lucknow;Data+Scientist+Enthusiast+%F0%9F%A4%96;Turning+Data+into+Insights+%F0%9F%93%8A" alt="Typing SVG" />
 </h1>
 
