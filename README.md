@@ -1,5 +1,4 @@
 <div align="center" >
-</div>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Kajal+Maurya+%F0%9F%91%8B;M.Sc.+Data+Science+%40+IIIT+Lucknow;Data+Scientist+Enthusiast+%F0%9F%A4%96;Turning+Data+into+Insights+%F0%9F%93%8A" alt="Typing SVG" />
 </h1>
 
@@ -7,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=Kajal805-M&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/Kajal805-M?style=for-the-badge&color=purple" alt="Followers"/>
 </p>
-
+</div>
 ---
 
 ## 🚀 About Me
