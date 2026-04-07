@@ -43,7 +43,7 @@
 ### 🎬 Movie Recommendation System
 > *A Machine Learning-based system that suggests similar movies based on user selection.*
 
-- 🧠 Built with **Python**, **Pandas**, and **Scikit-learn**
+- 🧠 Built with **Python**, **Pandas**, **Scikit-learn** and **Cosine Similarity**
 - 🎯 Uses content-based filtering to recommend relevant movies
 - 📦 Clean and modular codebase
 
