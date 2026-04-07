@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/github/followers/Kajal805-M?style=for-the-badge&color=purple" alt="Followers"/>
 </p>
 </div>
----
 
 ## 🚀 About Me
 
