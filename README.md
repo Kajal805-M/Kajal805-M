@@ -14,7 +14,7 @@
     "Name"       : "Kajal Maurya",
     "Degree"     : "M.Sc. Data Science",
     "University" : "IIIT Lucknow",
-    "Passion"    : ["Machine Learning","Artificial Intelligence", "Data Analytics","Data Scientist"],
+    "Passion"    : "Machine Learning","Artificial Intelligence", "Data Analytics","Data Scientist"
     "Currently"  : "Building cool data-driven projects 🔭",
     "Fun_fact"   : "I turn raw data into meaningful stories 📖"
 
@@ -76,7 +76,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kajal805-M&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kajal805-M&theme=onedark&no-frame=true&row=1&column=6&v=1" />
 </p>
 
 ---
@@ -104,6 +104,9 @@
   <a href="https://www.linkedin.com/in/kajal-maurya">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
+  <a href="kajalmaurya557552@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
+</a>
 </p>
 
 ---
