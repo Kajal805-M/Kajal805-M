@@ -101,11 +101,11 @@
   <a href="https://github.com/Kajal805-M">
     <img src="https://img.shields.io/badge/GitHub-Kajal805--M-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://www.linkedin.com/in/kajal-maurya">
+  <a href="linkedin.com/in/kajal-maurya-bb2946337">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="kajalmaurya557552@gmail.com">
-  <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="20"/>
 </a>
 </p>
 
