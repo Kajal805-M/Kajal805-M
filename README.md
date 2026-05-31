@@ -21,9 +21,6 @@
 
 ## 🌸 About Me
 
-```python
-class KajalMaurya:
-    def __init__(self):
         self.name        = "Kajal Maurya"
         self.username    = "Kajal805-M"
         self.degree      = "M.Sc Data Science"
@@ -35,10 +32,6 @@ class KajalMaurya:
 
     def say_hello(self):
         print("Thanks for visiting! Let's connect and build something amazing 🚀")
-
-me = KajalMaurya()
-me.say_hello()
-```
 
 ---
 
