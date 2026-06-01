@@ -21,30 +21,24 @@
 ## 🌸 About Me
 
 ```python
-class KajalMaurya:
-    def __init__(self):
-        self.name        = "Kajal Maurya"
-        self.username    = "Kajal805-M"
-        self.degree      = "M.Sc Data Science (2024–2026)"
-        self.university  = "IIIT Lucknow 🏛️"
-        self.email       = "mauryakajal444@gmail.com"
-        self.location    = "Lucknow, Uttar Pradesh 📍"
-        self.interests   = [
+c
+        Name        = "Kajal Maurya"
+        Username    = "Kajal805-M"
+        Degree      = "M.Sc Data Science (2024–2026)"
+        University  = "IIIT Lucknow 🏛️"
+        Email       = "mauryakajal444@gmail.com"
+        Location    = "Lucknow, Uttar Pradesh 📍"
+        Interests   = [
             "Machine Learning 🤖",
             "Data Analysis 📊",
             "Fraud Detection 🔍",
             "Agricultural AI 🌾",
             "Recommendation Systems 🎬"
         ]
-        self.currently   = "Exploring Deep Learning & Advanced ML"
-        self.fun_fact    = "I turn messy data into meaningful insights! 📖"
+        Currently   = "Exploring Deep Learning & Advanced ML"
+        Fun_fact    = "I turn messy data into meaningful insights! 📖"
 
-    def say_hello(self):
-        print("Thanks for visiting my profile!")
-        print("Let's connect and build something amazing 🚀")
-
-me = KajalMaurya()
-me.say_hello()
+    
 ```
 
 ---
