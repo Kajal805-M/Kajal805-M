@@ -56,11 +56,11 @@ c
   </tr>
   <tr>
     <td><b>📅 Duration</b></td>
-    <td>2024 – 2026</td>
+    <td>2025 – 2027</td>
   </tr>
   <tr>
     <td><b>🎯 Focus</b></td>
-    <td>Machine Learning · Statistical Modelling · AI Systems</td>
+    <td>Machine Learning · Data Scientist · AI Systems</td>
   </tr>
 </table>
 
@@ -176,7 +176,7 @@ c
 
 | 🔬 Topic | 📖 Focus |
 |---|---|
-| 🧠 Deep Learning | Neural Networks & CNNs |
+| 🧠 Machine Learning | Deep Learning | Neural Networks & CNNs | 
 | 🗣️ NLP | Text Classification & Sentiment Analysis |
 | 📈 Advanced Stats | Bayesian Methods & Time Series |
 | ☁️ Cloud ML | Model Deployment on AWS/GCP |
