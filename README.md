@@ -148,17 +148,13 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kajal805-M&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&title_color=a855f7&icon_color=6366f1&text_color=ffffff&bg_color=0d1117" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kajal805-M&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&title_color=a855f7&text_color=ffffff&bg_color=0d1117" height="175"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kajal805-M&show_icons=true&theme=tokyonight)
 
-<br/><br/>
+![GitHub Streak](https://streak-stats.demolab.com?user=Kajal805-M&theme=tokyonight)
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Kajal805-M&theme=tokyonight&hide_border=true&border_radius=15&stroke=a855f7&ring=6366f1&fire=f59e0b&currStreakLabel=a855f7" height="175"/>
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kajal805-ME&layout=compact&theme=tokyonight)
 
 ---
 
