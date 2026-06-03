@@ -21,7 +21,7 @@
 ## 🌸 About Me
 
 ```python
-c
+
         Name        = "Kajal Maurya"
         Username    = "Kajal805-M"
         Degree      = "M.Sc Data Science (2024–2026)"
@@ -31,8 +31,8 @@ c
         Interests   = [
             "Machine Learning 🤖",
             "Data Analysis 📊",
-            "Fraud Detection 🔍",
-            "Agricultural AI 🌾",
+            "Fraud / Spam Detection 🔍",
+            "Data Visualization🌾",
             "Recommendation Systems 🎬"
         ]
         Currently   = "Exploring Deep Learning & Advanced ML"
@@ -162,14 +162,6 @@ c
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kajal805-M&theme=tokyo-night&hide_border=true&area=true&color=a855f7&line=6366f1&point=ffffff" width="95%"/>
-</div>
-
----
-
 ## 🌱 Currently Learning
 
 <div align="center">
@@ -178,8 +170,8 @@ c
 |---|---|
 | 🧠 Machine Learning | Deep Learning | Neural Networks & CNNs | 
 | 🗣️ NLP | Text Classification & Sentiment Analysis |
-| 📈 Advanced Stats | Bayesian Methods & Time Series |
-| ☁️ Cloud ML | Model Deployment on AWS/GCP |
+| 📈 Advanced Stats | Data Analysis | Visualization
+| ☁️ Cloud ML | Model Deployment  |
 
 </div>
 
