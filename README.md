@@ -1,102 +1,62 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Kajal%20Maurya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI%20Explorer&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=Radha%20Teli&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Finance%20%C3%97%20Analytics%20%C3%97%20Strategy&descAlignY=55&descSize=22" width="100%"/>
 
-<a href="https://github.com/Kajal805-M">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&width=650&height=100&lines=👩‍🎓+M.Sc+Data+Science+%40+IIIT+Lucknow;🤖+Machine+Learning+Enthusiast;📊+Turning+Data+into+Decisions;🚀+Building+Intelligent+ML+Systems" alt="Typing SVG" />
+<!-- Typing Animation -->
+<a href="https://github.com/radhateli">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=M.Sc.+Economics+%26+Management;Business+Analytics+Enthusiast;Finance+%2B+Data+%3D+Better+Decisions;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Turning+Numbers+Into+Business+Impact" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Kajal805-M&label=Profile+Views&color=a855f7&style=for-the-badge" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Kajal805-M?label=Followers&style=for-the-badge&color=6366f1" alt="Followers"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20ML-a855f7?style=for-the-badge" alt="Focus"/>
+![Profile Views](https://komarev.com/ghpvc/?username=radhateli&color=6E40C9&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/radhateli?style=flat-square&color=6E40C9&label=Followers)](https://github.com/radhateli?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/radha-teli-845735356)
 
 </div>
 
 ---
 
-## 🌸 About Me
+## 👩‍💼 About Me
+
+<img align="right" alt="Analytics GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```python
-
-        Name        = "Kajal Maurya"
-        Username    = "Kajal805-M"
-        Degree      = "M.Sc Data Science (2024–2026)"
-        University  = "IIIT Lucknow 🏛️"
-        Email       = "mauryakajal444@gmail.com"
-        Location    = "Lucknow, Uttar Pradesh 📍"
-        Interests   = [
-            "Machine Learning 🤖",
-            "Data Analysis 📊",
-            "Fraud / Spam Detection 🔍",
-            "Data Visualization🌾",
-            "Recommendation Systems 🎬"
-        ]
-        Currently   = "Exploring Deep Learning & Advanced ML"
-        Fun_fact    = "I turn messy data into meaningful insights! 📖"
-
-    
+class RadhaTeli:
+    name       = "Radha Teli"
+    education  = "M.Sc. Economics & Management"
+    location   = "India 🇮🇳"
+    focus      = ["Finance Analytics", "Business Strategy",
+                  "Marketing Research", "Data-Driven Decisions"]
+    tools      = ["Python", "SQL", "R", "Excel", "Power BI"]
+    currently  = "Building projects at the intersection of"
+                 "Finance & Analytics"
+    motto      = "Numbers tell stories. Strategy creates impact."
 ```
 
----
-
-## 🎓 Education
-
-<table>
-  <tr>
-    <td><b>🏛️ Institute</b></td>
-    <td>Indian Institute of Information Technology, Lucknow</td>
-  </tr>
-  <tr>
-    <td><b>📚 Degree</b></td>
-    <td>M.Sc in Data Science</td>
-  </tr>
-  <tr>
-    <td><b>📅 Duration</b></td>
-    <td>2025 – 2027</td>
-  </tr>
-  <tr>
-    <td><b>🎯 Focus</b></td>
-    <td>Machine Learning · Data Scientist · AI Systems</td>
-  </tr>
-</table>
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech & Tools Stack
 
 <div align="center">
 
-### 💻 Languages
+### 📊 Analytics & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-### 📦 Libraries & Frameworks
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pickle](https://img.shields.io/badge/Pickle-FFD43B?style=for-the-badge&logo=python&logoColor=black)
-
-### 🧠 ML Techniques
-![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SMOTE](https://img.shields.io/badge/SMOTE-DC143C?style=for-the-badge&logo=python&logoColor=white)
-![Regression](https://img.shields.io/badge/Regression-8B5CF6?style=for-the-badge&logo=python&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-00C49F?style=for-the-badge&logo=tableau&logoColor=white)
-
-### 🛠️ Tools & Platforms
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+### 📈 Business Intelligence & Reporting
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+
+### 🧠 Core Domains
+![Finance](https://img.shields.io/badge/Finance_Analytics-6E40C9?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Strategy](https://img.shields.io/badge/Business_Strategy-FF6B6B?style=for-the-badge&logo=target&logoColor=white)
+![Marketing](https://img.shields.io/badge/Marketing_Research-FF9A3C?style=for-the-badge&logo=google-analytics&logoColor=white)
 
 </div>
 
@@ -104,68 +64,70 @@
 
 ## 🚀 Featured Projects
 
-### 🎬 1. Movie Recommendation System
-> *Suggests personalized movies based on user selection using Content-Based Filtering.*
+<div align="center">
 
-[![Repo](https://img.shields.io/badge/GitHub-Movie%20Recommendation%20System-181717?style=for-the-badge&logo=github)](https://github.com/Kajal805-M/Movie-recommendation-system)
+| 🏛️ Project | 📌 Focus | 🔧 Key Skills |
+|:---|:---|:---|
+| **⚖️ KanoonSaathi** | Legal-tech startup concept | Business Modelling, Website Flow, Technology Strategy |
+| **🎬 OTT vs Cinema Research** | Consumer behaviour deep-dive | Primary Research, SWOT, Strategic Recommendations |
+| **💰 Finance Analytics Projects** | Capital budgeting & financial decisions | Ratio Analysis, Investment Decisions, Business Performance |
+| **🛒 Python-SQL Ecommerce** | End-to-end data analysis pipeline | Python, SQL, Jupyter, Data Wrangling |
+| **💻 LeetCode SQL Solutions** | Structured query problem-solving | SQL Optimization, Query Design |
 
-| 🔧 Tech | 📌 Detail |
-|---|---|
-| **Algorithm** | Content-Based Filtering |
-| **Libraries** | Python · Pandas · Scikit-learn · NumPy |
-| **Input** | User movie selection |
-| **Output** | List of similar recommended movies |
-
----
-
-### 💳 2. Credit Card Fraud Detection
-> *Detects fraudulent transactions using supervised ML on real-world imbalanced data.*
-
-[![Repo](https://img.shields.io/badge/GitHub-Credit%20Card%20Fraud%20Detection-181717?style=for-the-badge&logo=github)](https://github.com/Kajal805-M/Credit-Card-Fraud-Detection)
-
-| 🔧 Tech | 📌 Detail |
-|---|---|
-| **Algorithm** | Logistic Regression · Random Forest |
-| **Libraries** | Python · Scikit-learn · SMOTE · Pandas |
-| **Challenge** | Highly imbalanced data (~0.17% fraud) |
-| **Solution** | SMOTE Oversampling + StandardScaler |
+</div>
 
 ---
 
-### 🌾 3. Crop Yield Prediction
-> *Predicts agricultural crop yield based on environmental and farming factors.*
+## 📐 What I Work On
 
-[![Repo](https://img.shields.io/badge/GitHub-Crop%20Yield%20Prediction-181717?style=for-the-badge&logo=github)](https://github.com/Kajal805-M/Crop-Yield-Prediction)
+<div align="center">
 
-| 🔧 Tech | 📌 Detail |
-|---|---|
-| **Algorithms** | Linear Regression · Random Forest · Decision Tree |
-| **Libraries** | Python · Scikit-learn · Pandas · Pickle |
-| **Features** | Crop · Season · State · Rainfall · Fertilizer |
-| **Evaluation** | MAE · MSE · RMSE · R² Score |
+```
+┌──────────────────────────┬──────────────────────────┬──────────────────────────┐
+│    💹 Finance Analytics  │  📣 Marketing & Research │  🎯 Strategy & Decisions │
+├──────────────────────────┼──────────────────────────┼──────────────────────────┤
+│  Capital Budgeting        │  Consumer Research        │  Business Case Analysis  │
+│  Financial Ratio Analysis │  Market Analysis          │  Competitive Strategy    │
+│  Investment Decisions     │  Competitor Analysis      │  Problem Solving         │
+│  Business Performance     │  Research Methodology     │  Data-Driven Planning    │
+└──────────────────────────┴──────────────────────────┴──────────────────────────┘
+```
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kajal805-M&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Kajal805-M&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=radhateli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhateli&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kajal805-ME&layout=compact&theme=tokyonight)
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=radhateli&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165"/>
+
+</div>
 
 ---
 
-## 🌱 Currently Learning
+## 🗺️ Contribution Graph
 
 <div align="center">
 
-| 🔬 Topic | 📖 Focus |
-|---|---|
-| 🧠 Machine Learning | Deep Learning | Neural Networks & CNNs | 
-| 🗣️ NLP | Text Classification & Sentiment Analysis |
-| 📈 Advanced Stats | Data Analysis | Visualization
-| ☁️ Cloud ML | Model Deployment  |
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=radhateli&theme=tokyo-night&hide_border=true&area=true)](https://github.com/radhateli)
+
+</div>
+
+---
+
+## 🎓 Certifications & Learning
+
+<div align="center">
+
+📂 Check out my [**Certificates Repository**](https://github.com/radhateli/Certificates) for a full list of completed courses and certifications.
 
 </div>
 
@@ -175,10 +137,11 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kajal805-M)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kajal-maurya-bb2946337)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauryakajal444@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Radha_Teli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/radha-teli-845735356)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-radha952121@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radha952121@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-radhateli-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/radhateli)
 
 </div>
 
@@ -186,10 +149,8 @@
 
 <div align="center">
 
-### 💜 *"Data is the new oil — and I'm here to refine it, one model at a time!"* 💜
+> *"Numbers tell stories. Strategy creates impact."*
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=footer" width="100%"/>
 
 </div>
