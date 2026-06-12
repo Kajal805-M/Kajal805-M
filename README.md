@@ -19,6 +19,7 @@
 ---
 
 ## 🌸 About Me
+<img align="right" alt="Analytics GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```python
 
