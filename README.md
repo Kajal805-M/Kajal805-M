@@ -153,7 +153,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Kajal805-M&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kajal805-ME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kajal805-M&layout=compact&theme=tokyonight)
 
 ---
 
