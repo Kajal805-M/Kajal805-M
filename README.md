@@ -17,8 +17,8 @@
 ---
 
 ## 🌸 About Me
-  <img src="https://media.tenor.com/GVk4jB2WbYQAAAAC/programming-computer.gif" width="330" alt="Coding Animation"/>
 
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/GVk4jB2WbYQAAAAC/programming-computer.gif">
 ```python
 
    I am Kajal Maurya, an M.Sc. Data Science student at IIIT Lucknow with a background in Mathematics
