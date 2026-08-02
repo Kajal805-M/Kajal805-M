@@ -16,20 +16,17 @@
 
 ## 🌸 About me
 
-<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
+<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" />
 
 ```python
-class Kajal:
-    def __init__(self):
-        self.name = "Kajal Maurya"
-        self.role = "M.Sc Data Science Student @ IIIT Lucknow"
-        self.background = ["Mathematics", "Statistics", "Data Science"]
-        self.interests = ["AI", "Machine Learning", "NLP", "Generative AI"]
-        self.stack = ["Python", "PyTorch", "Scikit-learn", "FastAPI", "SQL"]
-        self.currently_exploring = "Deep Learning & Advanced ML"
 
-    def fun_fact(self):
-        return "I turn messy data into meaningful insights 📊"
+ I am Kajal Maurya, an M.Sc. Data Science student at IIIT Lucknow with a background in
+ Mathematics and Statistics. I am passionate about Artificial Intelligence, Machine Learning,
+ Data Science, and Generative AI. I enjoy building end-to-end AI solutions using Python, PyTorch,
+ Scikit-learn, FastAPI, and SQL, with experience in NLP, RAG systems, predictive modeling, and
+ data analytics. I am always eager to learn new technologies and apply them to solve real-world problems.
+currently_exploring = "Deep Learning & Advanced ML"
+ "I turn messy data into meaningful insights 📊"
 ```
 
 <br/>
