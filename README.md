@@ -7,8 +7,7 @@
 </a>
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=Kajal805-M&label=Profile+Views&color=a855f7&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Kajal805-M&label=Profile%20Views&color=a855f7&style=for-the-badge" alt="Profile Views" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/Kajal805-M?label=Followers&style=for-the-badge&color=6366f1" alt="Followers"/>
 &nbsp;
@@ -23,19 +22,7 @@
 
 ```python
 
-        Name        = "Kajal Maurya"
-        Username    = "Kajal805-M"
-        Degree      = "M.Sc Data Science (2024–2026)"
-        University  = "IIIT Lucknow 🏛️"
-        Email       = "mauryakajal444@gmail.com"
-        Location    = "Lucknow, Uttar Pradesh 📍"
-        Interests   = [
-            "Machine Learning 🤖",
-            "Data Analysis 📊",
-            "Fraud / Spam Detection 🔍",
-            "Data Visualization🌾",
-            "Recommendation Systems 🎬"
-        ]
+        I am Kajal Maurya, an M.Sc. Data Science student at IIIT Lucknow with a background in Mathematics and Statistics. I am passionate about Artificial Intelligence, Machine Learning, Data Science, and Generative AI. I enjoy building end-to-end AI solutions using Python, PyTorch, Scikit-learn, FastAPI, and SQL, with experience in NLP, RAG systems, predictive modeling, and data analytics. I am always eager to learn new technologies and apply them to solve real-world problems.
         Currently   = "Exploring Deep Learning & Advanced ML"
         Fun_fact    = "I turn messy data into meaningful insights! 📖"
 
