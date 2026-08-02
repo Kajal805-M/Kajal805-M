@@ -1,87 +1,91 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Kajal%20Maurya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI%20Explorer&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20I'm%20Kajal%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://github.com/Kajal805-M">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=M.Sc.+Data+Science+%40+IIIT+Lucknow;Machine+Learning+Enthusiast;Turning+Data+into+Decisions;Building+Intelligent+ML+Systems" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=M.Sc.+Data+Science+%40+IIIT+Lucknow;Turning+messy+data+into+meaningful+insights;Exploring+Deep+Learning+%26+Generative+AI;Building+end-to-end+ML+%26+NLP+solutions" alt="Typing SVG" />
+
 <br/>
-<img src="https://komarev.com/ghpvc/?username=Kajal805-M&label=Profile%20Views&color=a855f7&style=for-the-badge" alt="Profile Views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/Kajal805-M?label=Followers&style=for-the-badge&color=6366f1" alt="Followers"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20ML-a855f7?style=for-the-badge" alt="Focus"/>
+
+<img src="https://komarev.com/ghpvc/?username=Kajal805-M&label=Profile%20Views&color=a855f7&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Kajal805-M?label=Followers&style=for-the-badge&color=6366f1" />
+<img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20ML-a855f7?style=for-the-badge" />
 
 </div>
 
----
+<br/>
 
-## 🌸 About Me
+## 🌸 About me
 
-<img align="right" alt="Coding" width="350" src="https://media.tenor.com/GVk4jB2WbYQAAAAC/programming-computer.gif">
+<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
+
 ```python
+class Kajal:
+    def __init__(self):
+        self.name = "Kajal Maurya"
+        self.role = "M.Sc Data Science Student @ IIIT Lucknow"
+        self.background = ["Mathematics", "Statistics", "Data Science"]
+        self.interests = ["AI", "Machine Learning", "NLP", "Generative AI"]
+        self.stack = ["Python", "PyTorch", "Scikit-learn", "FastAPI", "SQL"]
+        self.currently_exploring = "Deep Learning & Advanced ML"
 
-   I am Kajal Maurya, an M.Sc. Data Science student at IIIT Lucknow with a background in Mathematics
-   and Statistics. I am passionate about Artificial Intelligence, Machine Learning, Data Science,
-   and Generative AI. I enjoy building end-to-end AI solutions using Python, PyTorch, Scikit-learn,
-   FastAPI, and SQL, with experience in NLP, RAG systems, predictive modeling, and data analytics.
-   I am always eager to learn new technologies and apply them to solve real-world problems.
-        Currently   = "Exploring Deep Learning & Advanced ML"
-        Fun_fact    = "I turn messy data into meaningful insights! 📖"
-
-    
+    def fun_fact(self):
+        return "I turn messy data into meaningful insights 📊"
 ```
 
----
+<br/>
 
 ## 🎓 Education
 
 <table>
   <tr>
-    <td><b>🏛️ Institute</b></td>
+    <td>🏛️ <b>Institute</b></td>
     <td>Indian Institute of Information Technology, Lucknow</td>
   </tr>
   <tr>
-    <td><b>📚 Degree</b></td>
+    <td>📚 <b>Degree</b></td>
     <td>M.Sc in Data Science</td>
   </tr>
   <tr>
-    <td><b>📅 Duration</b></td>
+    <td>📅 <b>Duration</b></td>
     <td>2025 – 2027</td>
   </tr>
   <tr>
-    <td><b>🎯 Focus</b></td>
-    <td>Machine Learning · Data Scientist · AI Systems</td>
+    <td>🎯 <b>Focus</b></td>
+    <td>Machine Learning · Data Science · AI Systems</td>
   </tr>
 </table>
 
----
+<br/>
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech stack & skills
 
 <div align="center">
 
-### 💻 Languages
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### 📦 Libraries & Frameworks
+**Libraries & frameworks**
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pickle](https://img.shields.io/badge/Pickle-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🧠 ML Techniques
+**ML techniques**
+
 ![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SMOTE](https://img.shields.io/badge/SMOTE-DC143C?style=for-the-badge&logo=python&logoColor=white)
 ![Regression](https://img.shields.io/badge/Regression-8B5CF6?style=for-the-badge&logo=python&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-00C49F?style=for-the-badge&logo=tableau&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-00C49F?style=for-the-badge&logo=openai&logoColor=white)
 
-### 🛠️ Tools & Platforms
+**Tools & platforms**
+
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -91,78 +95,96 @@
 
 </div>
 
----
+<br/>
 
-## 🚀 Featured Projects
+## 🚀 Featured projects
 
-### 🎬 1. Movie Recommendation System
-> *Suggests personalized movies based on user selection using Content-Based Filtering.*
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![Repo](https://img.shields.io/badge/GitHub-Movie%20Recommendation%20System-181717?style=for-the-badge&logo=github)](https://github.com/Kajal805-M/Movie-recommendation-system)
+### 🎬 Movie recommendation system
+Suggests personalized movies using content-based filtering.
 
-| 🔧 Tech | 📌 Detail |
-|---|---|
-| **Algorithm** | Content-Based Filtering |
-| **Libraries** | Python · Pandas · Scikit-learn · NumPy |
-| **Input** | User movie selection |
-| **Output** | List of similar recommended movies |
+**Tech:** Python · Pandas · Scikit-learn · NumPy
+**Input:** User movie selection
+**Output:** List of similar movies
 
----
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Kajal805-M/Movie-recommendation-system)
 
-### 💳 2. Credit Card Fraud Detection
-> *Detects fraudulent transactions using supervised ML on real-world imbalanced data.*
+</td>
+<td width="50%" valign="top">
 
-[![Repo](https://img.shields.io/badge/GitHub-Credit%20Card%20Fraud%20Detection-181717?style=for-the-badge&logo=github)](https://github.com/Kajal805-M/Credit-Card-Fraud-Detection)
+### 💳 Credit card fraud detection
+Detects fraudulent transactions on real-world imbalanced data.
 
-| 🔧 Tech | 📌 Detail |
-|---|---|
-| **Algorithm** | Logistic Regression · Random Forest |
-| **Libraries** | Python · Scikit-learn · SMOTE · Pandas |
-| **Challenge** | Highly imbalanced data (~0.17% fraud) |
-| **Solution** | SMOTE Oversampling + StandardScaler |
+**Tech:** Logistic Regression · Random Forest · SMOTE
+**Challenge:** ~0.17% fraud rate
+**Solution:** SMOTE oversampling + StandardScaler
 
----
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Kajal805-M/Credit-Card-Fraud-Detection)
 
-### 🌾 3. Crop Yield Prediction
-> *Predicts agricultural crop yield based on environmental and farming factors.*
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-[![Repo](https://img.shields.io/badge/GitHub-Crop%20Yield%20Prediction-181717?style=for-the-badge&logo=github)](https://github.com/Kajal805-M/Crop-Yield-Prediction)
+### 🌾 Crop yield prediction
+Predicts agricultural yield from environmental and farming factors.
 
-| 🔧 Tech | 📌 Detail |
-|---|---|
-| **Algorithms** | Linear Regression · Random Forest · Decision Tree |
-| **Libraries** | Python · Scikit-learn · Pandas · Pickle |
-| **Features** | Crop · Season · State · Rainfall · Fertilizer |
-| **Evaluation** | MAE · MSE · RMSE · R² Score |
+**Tech:** Linear Regression · Random Forest · Decision Tree
+**Features:** Crop · Season · State · Rainfall · Fertilizer
+**Evaluation:** MAE · MSE · RMSE · R² score
 
----
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Kajal805-M/Crop-Yield-Prediction)
 
-## 📊 GitHub Stats
+</td>
+<td width="50%" valign="top">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kajal805-M&show_icons=true&theme=tokyonight)
+### 🌱 More projects coming soon
+Currently building new work in deep learning and NLP.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Kajal805-M&theme=tokyonight)
+**Focus:** Neural networks · Text classification · RAG systems
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kajal805-M&layout=compact&theme=tokyonight)
+[![Repos](https://img.shields.io/badge/All%20Repos-181717?style=for-the-badge&logo=github)](https://github.com/Kajal805-M?tab=repositories)
 
----
+</td>
+</tr>
+</table>
 
-## 🌱 Currently Learning
+<br/>
+
+## 📊 GitHub stats
+
+<div align="center">
+<img width="200" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kajal805-M&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kajal805-M&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Kajal805-M&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
+
+## 🌱 Currently learning
 
 <div align="center">
 
-| 🔬 Topic | 📖 Focus |
+| Topic | Focus |
 |---|---|
-| 🧠 Machine Learning | Deep Learning | Neural Networks & CNNs | 
-| 🗣️ NLP | Text Classification & Sentiment Analysis |
-| 📈 Advanced Stats | Data Analysis | Visualization
-| ☁️ Cloud ML | Model Deployment  |
+| 🧠 Deep learning | Neural networks & CNNs |
+| 🗣️ NLP | Text classification & sentiment analysis |
+| 📈 Advanced stats | Data analysis & visualization |
+| ☁️ Cloud ML | Model deployment |
 
 </div>
 
----
+<br/>
 
-## 🤝 Connect With Me
+## 🤝 Connect with me
 
 <div align="center">
 
@@ -173,14 +195,12 @@
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
 ### 💜 *"Data is the new oil — and I'm here to refine it, one model at a time!"* 💜
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
