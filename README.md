@@ -160,11 +160,9 @@ Currently building new work in deep learning and NLP.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kajal805-M&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kajal805-M&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kajal805-M&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+<img src="https://streak-stats.demolab.com?user=Kajal805-M&theme=tokyonight&hide_border=true"/></div>
 
 <br>
 
