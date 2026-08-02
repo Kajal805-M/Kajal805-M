@@ -17,14 +17,16 @@
 ---
 
 ## 🌸 About Me
-<img align="right" alt="Analytics GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<p align="right">
+  <img src="https://media.tenor.com/GVk4jB2WbYQAAAAC/programming-computer.gif" width="330" alt="Coding Animation"/>
+</p>
 
 ```python
 
-        I am Kajal Maurya, an M.Sc. Data Science student at IIIT Lucknow with a background in Mathematics and Statistics.
-   I am passionate about Artificial Intelligence, Machine Learning, Data Science, and Generative AI.
-   I enjoy building end-to-end AI solutions using Python, PyTorch, Scikit-learn, FastAPI, and SQL, with experience in NLP,
-   RAG systems, predictive modeling, and data analytics.
+   I am Kajal Maurya, an M.Sc. Data Science student at IIIT Lucknow with a background in Mathematics
+   and Statistics. I am passionate about Artificial Intelligence, Machine Learning, Data Science,
+   and Generative AI. I enjoy building end-to-end AI solutions using Python, PyTorch, Scikit-learn,
+   FastAPI, and SQL, with experience in NLP, RAG systems, predictive modeling, and data analytics.
    I am always eager to learn new technologies and apply them to solve real-world problems.
         Currently   = "Exploring Deep Learning & Advanced ML"
         Fun_fact    = "I turn messy data into meaningful insights! 📖"
