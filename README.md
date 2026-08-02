@@ -16,7 +16,7 @@
 
 ## 🌸 About me
 
-<img align="right" src="https://media.tenor.com/GVk4jB2WbYQAAAAC/programming-computer.gif" width="330" alt="Coding Animation"/>
+<img align="right" alt="AI" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 ```python
 
@@ -162,7 +162,7 @@ Currently building new work in deep learning and NLP.
 </div>
 
 <div align="center">
-[<img src="https://streak-stats.demolab.com?user=Kajal805-M&theme=tokyonight&hide_border=true" />](https://streak-stats.demolab.com?user=Kajal805-M&theme=radical&hide_border=true)
+[<img src="https://streak-stats.demolab.com?user=Kajal805-M&theme=tokyonight&hide_border=true" />]
 </div>
 
 <br/>
