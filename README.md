@@ -16,15 +16,16 @@
 
 ## 🌸 About me
 
-<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" />
+<img align="right" src="https://media.tenor.com/GVk4jB2WbYQAAAAC/programming-computer.gif" width="330" alt="Coding Animation"/>
 
 ```python
 
- I am Kajal Maurya, an M.Sc. Data Science student at IIIT Lucknow with a background in
- Mathematics and Statistics. I am passionate about Artificial Intelligence, Machine Learning,
- Data Science, and Generative AI. I enjoy building end-to-end AI solutions using Python, PyTorch,
- Scikit-learn, FastAPI, and SQL, with experience in NLP, RAG systems, predictive modeling, and
- data analytics. I am always eager to learn new technologies and apply them to solve real-world problems.
+ I am Kajal Maurya, an M.Sc. Data Science student at IIIT Lucknow with a background
+ in Mathematics and Statistics. I am passionate about Artificial Intelligence,
+ Machine Learning, Data Science, and Generative AI. I enjoy building end-to-end
+ AI solutions using Python, PyTorch, Scikit-learn, FastAPI, and SQL, with experience
+ in NLP, RAG systems, predictive modeling, and data analytics. I am always eager
+ to learn new technologies and apply them to solve real-world problems.
 currently_exploring = "Deep Learning & Advanced ML"
  "I turn messy data into meaningful insights 📊"
 ```
@@ -161,7 +162,7 @@ Currently building new work in deep learning and NLP.
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Kajal805-M&theme=tokyonight&hide_border=true" />
+[<img src="https://streak-stats.demolab.com?user=Kajal805-M&theme=tokyonight&hide_border=true" />](https://streak-stats.demolab.com?user=Kajal805-M&theme=radical&hide_border=true)
 </div>
 
 <br/>
