@@ -3,9 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Kajal%20Maurya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI%20Explorer&descAlignY=60&descSize=20" width="100%"/>
 
 <a href="https://github.com/Kajal805-M">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&width=650&height=100&lines=👩‍🎓+M.Sc+Data+Science+%40+IIIT+Lucknow;🤖+Machine+Learning+Enthusiast;📊+Turning+Data+into+Decisions;🚀+Building+Intelligent+ML+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=M.Sc.+Data+Science+%40+IIIT+Lucknow;Machine+Learning+Enthusiast;Turning+Data+into+Decisions;Building+Intelligent+ML+Systems" alt="Typing SVG" />
 </a>
-
 <br/>
 <img src="https://komarev.com/ghpvc/?username=Kajal805-M&label=Profile%20Views&color=a855f7&style=for-the-badge" alt="Profile Views" />
 &nbsp;
@@ -22,7 +21,11 @@
 
 ```python
 
-        I am Kajal Maurya, an M.Sc. Data Science student at IIIT Lucknow with a background in Mathematics and Statistics. I am passionate about Artificial Intelligence, Machine Learning, Data Science, and Generative AI. I enjoy building end-to-end AI solutions using Python, PyTorch, Scikit-learn, FastAPI, and SQL, with experience in NLP, RAG systems, predictive modeling, and data analytics. I am always eager to learn new technologies and apply them to solve real-world problems.
+        I am Kajal Maurya, an M.Sc. Data Science student at IIIT Lucknow with a background in Mathematics and Statistics.
+   I am passionate about Artificial Intelligence, Machine Learning, Data Science, and Generative AI.
+   I enjoy building end-to-end AI solutions using Python, PyTorch, Scikit-learn, FastAPI, and SQL, with experience in NLP,
+   RAG systems, predictive modeling, and data analytics.
+   I am always eager to learn new technologies and apply them to solve real-world problems.
         Currently   = "Exploring Deep Learning & Advanced ML"
         Fun_fact    = "I turn messy data into meaningful insights! 📖"
 
