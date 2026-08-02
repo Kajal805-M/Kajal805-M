@@ -16,7 +16,7 @@
 
 ## 🌸 About me
 
-<img align="right" alt="AI" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="Developer" width="350" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 ```python
 
@@ -156,13 +156,23 @@ Currently building new work in deep learning and NLP.
 
 <div align="center">
 <img width="200" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=Kajal805-M&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kajal805-M&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
+<br>
 
 <div align="center">
-[<img src="https://streak-stats.demolab.com?user=Kajal805-M&theme=tokyonight&hide_border=true" />]
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kajal805-M&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kajal805-M&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Kajal805-M&theme=tokyonight&hide_border=true" />
+
+</div>
 </div>
 
 <br/>
