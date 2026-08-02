@@ -17,9 +17,7 @@
 ---
 
 ## 🌸 About Me
-<p align="right">
   <img src="https://media.tenor.com/GVk4jB2WbYQAAAAC/programming-computer.gif" width="330" alt="Coding Animation"/>
-</p>
 
 ```python
 
