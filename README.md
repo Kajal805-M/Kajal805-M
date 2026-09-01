@@ -155,10 +155,6 @@ Currently building new work in deep learning and NLP.
 ## 📊 GitHub stats
 
 <div align="center">
-<img width="200" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" />
-<br>
-
-<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kajal805-M&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
