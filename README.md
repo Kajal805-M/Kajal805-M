@@ -20,7 +20,7 @@
 ---
 
 ## 🌸 About Me
-
+<img align="right" alt="Developer" width="350" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 Hi, I'm **Kajal Maurya** — an M.Sc. Data Science student at **IIIT Lucknow**, with a background in Mathematics and Statistics. I'm passionate about **AI, Machine Learning, Data Science, and Generative AI**, and I love turning raw, messy data into meaningful insights.
 
 I build end-to-end solutions using **Python, PyTorch, Scikit-learn, FastAPI, and SQL**, with hands-on experience in **NLP, RAG systems, predictive modeling, and data analytics**.
@@ -173,7 +173,6 @@ Predicts agricultural crop yield based on environmental and farming factors.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kajal805-M&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://streak-stats.demolab.com?user=Kajal805-M&theme=tokyonight&hide_border=true" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kajal805-M&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
@@ -181,12 +180,9 @@ Predicts agricultural crop yield based on environmental and farming factors.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kajal805-M&theme=tokyo-night&hide_border=true" width="95%"/>
 
 </div>
----
-##🐍 Contribution Snake
-
-<p align="center"> <img src="https://raw.githubusercontent.com/Kajal805-M/Kajal805-M/output/github-contribution-grid-snake.svg"/> </p>
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kajal805-M/Kajal805-M/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ## 🌱 Currently Learning
 
